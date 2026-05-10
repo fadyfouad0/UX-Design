@@ -108,10 +108,7 @@ WCAG 2.1 AA · Nielsen's 10 Heuristics · Double Diamond
 
 Open to feedback, collaboration, and freelance projects.
 
-- 📧 Email: `your.email@example.com`
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
+- 📧 Email: fadyfouad00@gmail.com
 ---
 
 *Last updated: May 2026*
